@@ -1,0 +1,6 @@
+{
+  "name": "Glowing Pink Flowers & Hearts",
+  "description": "A stunning, glowing night flowers animation with pink botanical hues, ethereal floating hearts, and soft trailing sparkles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
